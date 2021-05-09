@@ -11,4 +11,7 @@ Database Model classes.</p>
 classes to develop a database program.  In the script, you can substitute any of the legal ASPnet or .NET projects in place of 'new 
 console', such as 'new web' for a blank web app.</p>
 
+<p>Script ends by loading Visual Studio Code and the just built project.  Comment out or remove this line if you 
+wish not to use VS Code.</p>
+
 <p>As always, use at your own risk and modify as needed.</p>
